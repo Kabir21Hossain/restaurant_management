@@ -1,0 +1,25 @@
+""" 
+oop-characteristics
+1.inheritance
+2.encapsulation
+3.polymorphism
+4.abstraction
+-----------------
+classes:
+
+1.User:base class (ABC)
+2.Customer(user)
+3.employee(user)
+4.staff(emplyee)
+5.server(employee)
+
+
+------------Food------
+1.FoodItem(ABC)
+
+-------
+Order:
+restaurant
+
+
+"""
